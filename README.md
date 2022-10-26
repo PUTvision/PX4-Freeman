@@ -6,4 +6,4 @@
 
 ## Files
 
-In the Release tab, you can find two versions of PX4 software: [v1.13.0.0](https://github.com/bartoszptak/PX4-Freeman/releases/tag/v1.13.0) and [v1.12.3](https://github.com/bartoszptak/PX4-Freeman/releases/tag/v1.12.3). Each constrains the `.px4` file with airframe and the `.params` file with our config.
+In the Release tab, you can find two versions of PX4 software: [v1.13.0.0](https://github.com/bartoszptak/PX4-Freeman/releases/tag/v1.13.0) and [v1.12.3](https://github.com/bartoszptak/PX4-Freeman/releases/tag/v1.12.3). Each contains the `.px4` file with airframe and the `.params` file with our config.
